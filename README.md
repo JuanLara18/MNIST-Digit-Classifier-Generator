@@ -27,12 +27,12 @@ El proyecto se divide en dos partes principales:
 
 1. **Instalar Dependencias:**
 Asegúrate de tener las bibliotecas necesarias instaladas. Puedes usar pip para instalarlas.
-  ```bash
-  pip install scikit-learn pillow
-  ```
+     ```bash
+     pip install scikit-learn pillow
+     ```
 
 3. **Ejecutar el Código:**
 Ejecuta el código principal para la clasificación y generación de dígitos.
-  ```bash
-  python main.py
-  ```
+     ```bash
+     python main.py
+     ```
